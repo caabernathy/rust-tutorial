@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Build a Smart Bookmarking Tool with Rust and Rocket',
   tagline: 'Written by Joe Previte',
-  url: 'https://caabernathy.github.io/rust-tutorial/',
-  baseUrl: '/',
+  url: 'https://caabernathy.github.io',
+  baseUrl: '/rust-tutorial/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'caabernathy', // Usually your GitHub org/user name.

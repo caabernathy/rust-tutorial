@@ -9,7 +9,7 @@ June 3, 2020
 
 By [Joe Previte](https://www.facebook.com/jjprevite)
 
-<img src="/img/hero.png" width="100%" />
+<img src="/rust-tutorial/img/hero.png" width="100%" />
 <br/><br/>
 
 One of my favorite tools that exists internally is our smart bookmarking tool commonly referred to as “bunnylol.” Originally named bunny1 and [open sourced](https://github.com/ccheever/bunny1), it’s what we use to navigate across all tools, wikis, knowledge bases, and everything else one might use working at Facebook.
@@ -52,13 +52,13 @@ Say for instance I was using Firefox and I had a command gh <page/> which redire
 
 Here is that flow in action:
 
-<img src="/img/running_app.gif" width="100%" />
+<img src="/rust-tutorial/img/running_app.gif" width="100%" />
 
 I want to dig more into the technical details of this approach. I can achieve this by building a basic web server app that listens for requests and redirects them based on if it matches specific criteria. I am not building a client-side app because the only functionality I need is a redirect so it makes more sense to be built as a web server.
 
 Using the same example, the application logic will flow like this:
 
-<img src="/img/application_logic.png" width="100%" />
+<img src="/rust-tutorial/img/application_logic.png" width="100%" />
 
 I will use a [custom search engine](https://www.makeuseof.com/tag/create-custom-search-engines-google-chrome/) which will allow me to connect the address bar to my own search engine. With the basic flow down, I am ready to move on to the next step!
 
