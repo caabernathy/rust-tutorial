@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Build a Smart Bookmarking Tool with Rust and Rocket',
   tagline: 'Written by Joe Previte',
-  url: 'https://caabernathy.github.io',
-  baseUrl: '/rust-tutorial/',
+  url: 'https://caabernathy.github.io/rust-tutorial/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'caabernathy', // Usually your GitHub org/user name.
@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/caabernathy/rust-tutorial',
           label: 'Sample Project',
           position: 'right',
         },
@@ -40,7 +40,7 @@ module.exports = {
             },
             {
               label: 'Sample Project',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/caabernathy/rust-tutorial',
             },
           ],
         },
@@ -49,7 +49,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/facebook/jsjoeio',
             },
             {
               label: 'Facebook',
