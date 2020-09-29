@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{67:function(s){s.exports=JSON.parse('{"allTagsPath":"/rust-tutorial/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/rust-tutorial/blog/tags/docusaurus"}')}}]);
